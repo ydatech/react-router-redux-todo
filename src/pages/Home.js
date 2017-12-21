@@ -11,7 +11,7 @@ import IconButton from 'material-ui/IconButton';
 import DeleteIcon from 'material-ui-icons/Delete';
 import EditIcon from 'material-ui-icons/Edit';
 import { MenuItem } from 'material-ui/Menu';
-import { FormControl, FormHelperText } from 'material-ui/Form';
+import { FormControl } from 'material-ui/Form';
 import Select from 'material-ui/Select';
 
 // react redux
