@@ -1,6 +1,6 @@
 # React Router Redux Todo App by [Learn React JS Blog](https://learnreact.blogspot.com)
 ## [See Demo](https://react-router-redux-todo.surge.sh/)
-
+## [Read The Blog Post Tutorial](https://learnreact.blogspot.co.id/2017/12/react-js-tutorial-react-router-redux.html)
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
